@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Metro India</string>
+    <string name="create_account">+ CREATE ACCOUNT</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="f_name">First Name</string>
+    <string name="log_in">+ Log In</string>
+</resources>
